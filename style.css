@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(25,25,50);
+    color: white;
+}
+header {
+    background-color: rgb(100,100,130);
+    text-align: center;
+}
+main {
+    position:absolute;
+    left: 25%; 
+    width:50%
+}
+aside {
+    position:absolute;
+    left: 2%;
+    width: 15%;
+}
+.rightSide {
+    position:absolute;
+    left: 80%;
+    width: 15%;
+}
+article {
+    background-color: rgb(100,100,130);
+}
+p, h3, .text {
+    position: relative;
+    margin: 2%;
+}
