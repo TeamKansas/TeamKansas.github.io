@@ -53,10 +53,3 @@ h1,h3,h4 {
     background-color: white;
     color: lightblue;
 }
-
-#resources {
-    position:inherit;
-    left:760px;
-    width:200px;
-
-}
