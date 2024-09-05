@@ -3,7 +3,7 @@ body {
     position: absolute;
     left:50%;
     width:750px;
-    margin-left:-445px;
+    margin-left:-375px;
     text-align: center;
     overflow:scroll;
 }
