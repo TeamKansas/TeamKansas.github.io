@@ -28,7 +28,7 @@ var titles = [
     "Randomly generated Maze. From one of the several maze generation programs that I have made. Written in C.",
     "Command Line Tetris recreation. Written in C.",
     "Command Line Snake recreation. Written in C."
-]
+];
 
 var current = 0;
 var len = pictures.length;
